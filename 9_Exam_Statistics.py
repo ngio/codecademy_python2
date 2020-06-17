@@ -117,7 +117,7 @@ print grades_std_deviation(variance)
 
 
 
-# <h3> Review 9:9 </h3>
+# Review 9:9 
 
 grades = [100, 100, 90, 40, 80, 100, 85, 70, 90, 65, 90, 85, 50.5]
 
